@@ -3,7 +3,8 @@ Andela bootcamp home session: demonstration of basic OOP features
 
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
+###Descripiton
+This project demonstrates basic OOP features such inheritance, polymorphism, Abstraction. It uses the human gender to illusrate the aforementioned features.
 ### Prerequisites
 * You need to install node.js : go to [Node site](https://nodejs.org/en/download/) 
 * Then install jasmine : Open  node.js and enter the commands below
